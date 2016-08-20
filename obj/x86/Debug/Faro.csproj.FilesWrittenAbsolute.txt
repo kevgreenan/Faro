@@ -1,0 +1,5 @@
+/Users/kevgreenan/Projects/Faro/Faro/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kevgreenan/Projects/Faro/Faro/bin/Debug/Faro.exe.mdb
+/Users/kevgreenan/Projects/Faro/Faro/bin/Debug/Faro.exe
+/Users/kevgreenan/Projects/Faro/Faro/obj/x86/Debug/Faro.exe
+/Users/kevgreenan/Projects/Faro/Faro/obj/x86/Debug/Faro.exe.mdb
